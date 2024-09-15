@@ -1,0 +1,11 @@
+In this project I will use : 
+nodejs expressjs react JWT mongodb and soketio.
+
+In this app you will be able to :
+- create a profile using name , email and password.
+- you can add a profile pic .
+- add people to talk with using the name .
+- send and receive texts .
+- create a group chat .
+- send files that you can download .
+
